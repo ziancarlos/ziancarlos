@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently studying Information system in Universitas pelita harapan.
 - 🌱 I’m currently learning React.js and Node.js.
-- 👯 I’m looking to collaborate on open source project related to Java or Laravel.
+- 👯 I’m looking to collaborate on open source project related to Laravel.
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziancarlos)](https://github.com/anuraghazra/github-readme-stats)
