@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently studying Information system in Universitas pelita harapan.
+- 🔭 I'm currently studying Information system at Universitas pelita harapan.
 - 🌱 I’m currently learning React.js and Node.js.
 - 👯 I’m looking to collaborate on open source project related to Laravel.
 <br>
