@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a first year student majoring in Information system at Pelita harapan University.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning how to implement Mvvm concept in javafx.
 - 👯 I’m looking to collaborate on open source project related to Java.
 - 🏗️	I'm currently building a Banking system with Java.
 <br>
