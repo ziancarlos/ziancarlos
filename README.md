@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm a first year student majoring in Information system at Pelita harapan University.
+- 🔭 I'm a second year student majoring in Information system at Pelita harapan University.
 - 👯 I’m looking to collaborate on open source project related to Java.
 <br>
 
